@@ -17,7 +17,7 @@ class Welcome extends CI_Controller {
 		
 		//coin values and labels
 		$coin_decimals = array(200,100,50,20,2,1);
-		$coin_strings = array('Two Pound','One Pound','Fifty Pence','Twenty Pence','Five Pence,','Two Pence','One Pence');
+		$coin_strings = array('Two Pound','One Pound','Fifty Pence','Twenty Pence','Two Pence','One Pence');
 			
 		//set validation rules
 		//see libraries/
